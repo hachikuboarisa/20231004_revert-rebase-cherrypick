@@ -13,5 +13,9 @@ namespace _20231004_revert_rebase_cherrypick {
 		public Form1() {
 			InitializeComponent();
 		}
+
+		private void button1_Click(object sender, EventArgs e) {
+
+		}
 	}
 }
