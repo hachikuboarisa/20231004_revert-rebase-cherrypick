@@ -16,6 +16,7 @@ namespace _20231004_revert_rebase_cherrypick {
 
 		private void button1_Click(object sender, EventArgs e) {
 			label1.Text = "おはよう";
+			label2.Text = "こんにちは";
 		}
 	}
 }
